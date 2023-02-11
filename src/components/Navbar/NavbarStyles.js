@@ -15,6 +15,7 @@ export const Navbar = styled.div`
 `;
 
 export const NavHeading = styled.h1`
+  padding-left: 1rem;
   display: flex;
 `;
 
